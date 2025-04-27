@@ -97,7 +97,7 @@ You can manually change inside `download_song_from_youtube()` if needed:
 
 ---
 
-## 📌 Notes
+## Notes
 
 - The search is **based on song name and artist** — sometimes results may vary slightly depending on YouTube availability.
 - If a song has special characters in the name, `yt-dlp` will handle it automatically.
@@ -105,7 +105,7 @@ You can manually change inside `download_song_from_youtube()` if needed:
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
 - Detect "Loved" songs (if possible).
 - Show a download **progress bar** for each song.
@@ -113,6 +113,6 @@ You can manually change inside `download_song_from_youtube()` if needed:
 
 ---
 
-## 📜 License
+## License
 
 This project is open-source under the [MIT License](LICENSE).
